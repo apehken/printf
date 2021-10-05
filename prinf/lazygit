@@ -1,0 +1,5 @@
+#!/bin/bash
+read printf
+git add .
+git commit -a -m "printf"
+git push
